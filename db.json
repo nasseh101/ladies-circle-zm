@@ -1,0 +1,84 @@
+{
+  "circles": {
+    "Board": {
+      "members" : {
+        "0" : {
+          "name": "Grimes",
+          "position" : "President",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "21st January 1988",
+          "spouse": "Some Guy",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Claire Elise Boucher, known professionally as Grimes, is a Canadian musician, songwriter, record producer and visual artist. Boucher released the studio albums Geidi Primes and Halfaxa in 2010, and signed a recording contract with 4AD in 2011. Her third studio album Visions (2012) and its singles 'Genesis' and 'Oblivion' received widespread critical acclaim; it was hailed as 'one of the most impressive albums of the year so far' by The New York Times, was nominated for the Polaris Prize, and received the Juno Award for Electronic Album of the Year.[13] Her fourth studio album Art Angels was released in 2015 and like Visions, it received widespread critical acclaim. Art Angels was nominated for the Alternative Album of the Year and the Recording Package of the Year at Juno Awards 2017.",
+          "picture" : "http://ksassets.timeincuk.net/wp/uploads/sites/55/2018/01/GettyImages-533661908-920x584.jpg"
+        },
+        "1" : {
+          "name": "Kevin Abstract",
+          "position" : "Vice President",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "16th July 1996",
+          "spouse": "Jaden Walker",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Kevin Abstract (born Clifford Ian Simpson; July 16, 1996), is an American rapper, singer-songwriter, and director. Abstract is a founding member of hip-hop group Brockhampton. Abstract released his debut album, MTV1987, in 2014, and received attention from a number of major music blogs and magazine publications. His second album, American Boyfriend: A Suburban Love Story, was released in November 2016.",
+          "picture" : "https://1.bp.blogspot.com/-dy8T3Y6xBVM/Wd_uGWvMF_I/AAAAAAAAG_Q/7yoe8aoH3_4cjMIg4dLIPBBgPKVSdehpgCLcBGAs/s1600/Kevin-Abstract.jpg"
+        }
+      }
+    },
+    "Circle 1": {
+      "members" : {
+        "0" : {
+          "name": "Matt Champion",
+          "position" : "",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "8th February 1970",
+          "spouse": "",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Kevin Abstract (born Clifford Ian Simpson; July 16, 1996), is an American rapper, singer-songwriter, and director. Abstract is a founding member of hip-hop group Brockhampton. Abstract released his debut album, MTV1987, in 2014, and received attention from a number of major music blogs and magazine publications. His second album, American Boyfriend: A Suburban Love Story, was released in November 2016.",
+          "picture" : "https://www.famousbirthdays.com/headshots/matt-champion-9.jpg"
+        },
+        "1" : {
+          "name": "Ameer Van",
+          "position" : "",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "8th June 1996",
+          "spouse": "",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Kevin Abstract (born Clifford Ian Simpson; July 16, 1996), is an American rapper, singer-songwriter, and director. Abstract is a founding member of hip-hop group Brockhampton. Abstract released his debut album, MTV1987, in 2014, and received attention from a number of major music blogs and magazine publications. His second album, American Boyfriend: A Suburban Love Story, was released in November 2016.",
+          "picture" : "https://www.famousbirthdays.com/headshots/ameer-vann-6.jpg"
+        }
+      }
+    },
+    "Circle 2": {
+      "members" : {
+        "0" : {
+          "name": "Dom McLennon",
+          "position" : "",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "28th February 1996",
+          "spouse": "",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Kevin Abstract (born Clifford Ian Simpson; July 16, 1996), is an American rapper, singer-songwriter, and director. Abstract is a founding member of hip-hop group Brockhampton. Abstract released his debut album, MTV1987, in 2014, and received attention from a number of major music blogs and magazine publications. His second album, American Boyfriend: A Suburban Love Story, was released in November 2016.",
+          "picture" : "https://www.famousbirthdays.com/headshots/dom-mclennon-2.jpg"
+        },
+        "1" : {
+          "name": "Bearface",
+          "position" : "",
+          "address" : "39 Rice Road, Winnipeg, Canada",
+          "dob" : "28th May 1976",
+          "spouse": "Random Person",
+          "phone" : "+12049524629",
+          "email" : "info@test.com",
+          "bio" : "Kevin Abstract (born Clifford Ian Simpson; July 16, 1996), is an American rapper, singer-songwriter, and director. Abstract is a founding member of hip-hop group Brockhampton. Abstract released his debut album, MTV1987, in 2014, and received attention from a number of major music blogs and magazine publications. His second album, American Boyfriend: A Suburban Love Story, was released in November 2016.",
+          "picture" : "https://i1.sndcdn.com/avatars-000231071145-ncobyp-t500x500.jpg"
+        }
+      }
+    }
+  }
+
+}
+
